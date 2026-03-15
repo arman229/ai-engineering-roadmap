@@ -1,7 +1,7 @@
 # How AI Recommendation Systems Actually Work
 
 *(Explained with Simple Mathematics We Learned in School)*
-!['Image not found'](./images/thambnail.jpg)
+!['Image not found'](./images/recommend_sys/thambnail.jpg)
 
 Every day, artificial intelligence quietly decides what we watch, read, and buy.
 
@@ -70,7 +70,7 @@ Interpretation:
 
     💡 In real systems like Netflix, these numbers aren't typed manually — they're automatically learned from your viewing history, ratings, and watch time.
 
-!['Image not found'](./images/userlist.jpg)
+!['Image not found'](./images/recommend_sys/userlist.jpg)
 
 ---
 
@@ -110,7 +110,7 @@ Numbers → Whether the genre exists in the movie
 
 📌 This matrix represents **movie characteristics**.
 
-!['Image not found'](./images/movie_and_genre.jpg)
+!['Image not found'](./images/recommend_sys/movie_and_genre.jpg)
 ---
 
 # Step 3 — Matrix Multiplication (The Core of Recommendations)
@@ -224,7 +224,7 @@ Now **Movie2 becomes more recommended**.
 
 📌 Matrix addition allows the system to **adjust recommendations dynamically**.
 
-!['Image not found'](./images/addition.jpg)
+!['Image not found'](./images/recommend_sys/addition.jpg)
 ---
 
 # Step 5 — Ranking the Movies
@@ -247,7 +247,7 @@ So the recommendation order is:
 
 The system recommends the **top movies first**.
 
-!['Image not found'](./images/flowchat.jpg)
+!['Image not found'](./images/recommend_sys/flowchat.jpg)
 ---
 
 # How Real AI Systems Expand This Idea
