@@ -128,7 +128,7 @@ $$
 house_2 = [2400,6,4]
 $$
 
-Since every value in **house₂ is larger**, its **magnitude is larger**, meaning the house is overall **bigger**.
+Since every value in **house$_2$ is larger**, its **magnitude is larger**, meaning the house is overall **bigger**.
 
 ---
 
@@ -156,7 +156,7 @@ $$
 
 So they point in the **same direction in feature space**.
 
-Even though **house₂ is bigger**, the **pattern of features is identical**.
+Even though **house$_2$ is bigger**, the **pattern of features is identical**.
 
 ---
 

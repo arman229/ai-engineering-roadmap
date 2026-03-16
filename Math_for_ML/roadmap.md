@@ -47,7 +47,7 @@ Learning mathematics for machine learning involves several areas: **linear algeb
 **Detailed Topics:**
 
 * **Single-variable Calculus**
-
+  * Function
   * Limits and continuity
   * Derivatives
   * Rules of differentiation (product, quotient, chain rule)
@@ -56,7 +56,7 @@ Learning mathematics for machine learning involves several areas: **linear algeb
 * **Multivariable Calculus**
 
   * Partial derivatives
-  * Gradient, divergence, curl
+  * Gradient,Gradient Descent, divergence, curl
   * Jacobian and Hessian matrices
   * Chain rule for multiple variables
 * **Integration**
@@ -243,12 +243,12 @@ Here’s a **12-week detailed, book-wise study plan** for learning mathematics f
 
 **Topics:**
 
+* Function behavior and graphs
 * Limits, continuity, and differentiability
 * Derivatives & rules (product, quotient, chain rule)
 * Higher-order derivatives
-* Taylor series expansion
-* Exercises: derivative practice, simple function approximation
-* ML connection: Gradient of loss functions
+* Taylor series and approximation
+* Critical points and optimization
 
 ---
 
@@ -260,9 +260,12 @@ Here’s a **12-week detailed, book-wise study plan** for learning mathematics f
 
 * Partial derivatives
 * Gradient vectors, divergence, curl
+* Directional derivatives
+* Convex vs non-convex functions
+* Lagrange multipliers
+* Gradient descent mathematics
 * Jacobian and Hessian matrices
 * Chain rule for multivariable functions
-* Applications: Backpropagation in neural networks, multivariable optimization
 
 ---
 
