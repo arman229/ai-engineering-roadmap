@@ -1,2 +1,4 @@
 /furture_delete_data
 /.mypy_cache
+**/Datasets/
+Machine_learning/Datasets/
