@@ -47,6 +47,7 @@ The interviewer only wants to see your **thinking process**.
 
 It simulates a real engineering discussion between coworkers.
 
+
 Imagine:
 
 * You are a software engineer
@@ -150,9 +151,8 @@ Good engineers balance tradeoffs.
 
 ---
 
-# Red Flags Interviewers Look For
 
----
+# Red Flags Interviewers Look For
 
 ## 1. Over-Engineering
 
@@ -206,7 +206,6 @@ This is wrong because:
 Good candidates first ask questions.
 
 ---
-
 # The 4-Step Framework
 
 The chapter introduces a **4-step process**.
@@ -251,7 +250,6 @@ Now the architecture changes completely.
 
 # Questions You Should Ask
 
----
 
 ## 1. What Features Are Needed?
 
@@ -310,6 +308,7 @@ Example:
 This saves time.
 
 ---
+
 
 # Example — News Feed System
 
@@ -428,7 +427,6 @@ NOT tiny details.
 
 # Important Terms
 
----
 
 # Client
 
@@ -532,6 +530,8 @@ Popular systems:
 
 ---
 
+
+
 # Back-of-the-Envelope Calculation
 
 This means rough estimation.
@@ -546,9 +546,7 @@ Each uploads:
 
 Storage needed daily:
 
-$$
-10^7 \times 2\text{ MB} = 2\times10^7\text{ MB} = 20\text{ TB}
-$$
+ 10^7 × 2 MB  = 20 TB
 
 About 20 TB per day.
 
@@ -582,6 +580,7 @@ System:
 * Updates friends' feeds
 
 ---
+
 
 # 2. News Feed Building
 
@@ -630,6 +629,7 @@ One database server handling:
 It becomes overloaded.
 
 ---
+
 
 # Example — URL Shortener
 
@@ -680,6 +680,8 @@ If instantly:
 * low latency
 
 ---
+
+ 
 
 # Important Advice
 
@@ -774,8 +776,6 @@ This shows engineering maturity.
 
 # Important Terms Explained
 
----
-
 # Scalability
 
 Ability to handle growth.
@@ -841,6 +841,7 @@ Purpose:
 
 ---
 
+
 # Load Balancer
 
 Distributes traffic across servers.
@@ -879,9 +880,8 @@ Like Instagram or Twitter.
 
 ---
 
-# Dos in Interviews
 
----
+# Dos in Interviews
 
 ## Ask Questions
 
@@ -910,9 +910,8 @@ Discuss tradeoffs.
 
 ---
 
-# Don’ts
+# Don’ts in Interviews
 
----
 
 ## Don’t Jump Into Solution
 
