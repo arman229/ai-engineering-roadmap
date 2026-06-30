@@ -194,6 +194,13 @@ Returns students who are only enrolled online.
 | EXCEPT | Rows only in the first query |
 
 
+# UNION vs JOIN
+
+| Operation | Result |
+|-----------|--------|
+| UNION | UNION combines rows. |
+| JOIN | JOIN combines columns from different tables. |
+
 
 ---
 
